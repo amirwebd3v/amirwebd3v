@@ -42,4 +42,4 @@ Here you can see how I spend my days & nights and I hope that it can be useful o
 
 <a href="http://www.github.com/man0fcode"><img src="https://activity-graph.herokuapp.com/graph?username=man0fcode&bg_color=1c1917&color=facc15&line=f97316&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/man0fcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man0fcode&langs_count=10&title_color=f97316&text_color=facc15&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/man0fcode" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man0fcode&langs_count=10&title_color=f97316&text_color=facc15&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
