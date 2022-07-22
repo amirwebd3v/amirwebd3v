@@ -1,7 +1,7 @@
 Hi 👋 My name is Amir
 =====================
 
-As a Software Engineer
+As a Man Of Code!
 ----------------------
 
 Here you can see how I spend my days & nights and I hope that it can be useful or at least interesting for you!
