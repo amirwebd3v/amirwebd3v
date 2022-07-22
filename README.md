@@ -14,7 +14,7 @@ Here you can see how I spend my days & nights and I hope that it can be useful o
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -41,5 +41,3 @@ Here you can see how I spend my days & nights and I hope that it can be useful o
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/man0fcode"><img src="https://activity-graph.herokuapp.com/graph?username=man0fcode&bg_color=1c1917&color=facc15&line=f97316&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/man0fcode" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man0fcode&langs_count=10&title_color=f97316&text_color=facc15&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
