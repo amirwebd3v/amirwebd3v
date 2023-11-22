@@ -1,13 +1,13 @@
 Hi 👋 My name is Amir
 =====================
 
-As a Man Of Code!
+As a Web developer!
 ----------------------
 
 Here you can see how I spend my days & nights and I hope that it can be useful or at least interesting for you!
 
 * 🌍  I'm based in Earth
-* ✉️  You can contact me at [man.of.cod3@gmail.com](mailto:man.of.cod3@gmail.com)
+* ✉️  You can contact me at [amirhidevs@gmail.com](mailto:amirhidevs@gmail.com)
 * 🧠  I'm learning Vue.js, Nuxt.js and Laravel
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  Everybody's so afraid they could die But they never once said "Thank God we're alive"
@@ -34,10 +34,10 @@ Here you can see how I spend my days & nights and I hope that it can be useful o
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/man0fcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/man.of.code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/amirhidevs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amirhidevs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/man0fcode"><img src="https://activity-graph.herokuapp.com/graph?username=man0fcode&bg_color=1c1917&color=facc15&line=f97316&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/amirhidevs"><img src="https://activity-graph.herokuapp.com/graph?username=amirhidevs&bg_color=1c1917&color=facc15&line=f97316&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
