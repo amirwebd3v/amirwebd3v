@@ -36,8 +36,4 @@ Here you can see how I spend my days & nights and I hope that it can be useful o
 
 <p align="left"> <a href="https://www.github.com/amirhidevs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amirhidevs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/amirhidevs"><img src="https://activity-graph.herokuapp.com/graph?username=amirhidevs&bg_color=1c1917&color=facc15&line=f97316&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
