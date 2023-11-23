@@ -8,8 +8,8 @@ Here you can see how I spend my days & nights and I hope that it can be useful o
 
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [amirhidevs@gmail.com](mailto:amirhidevs@gmail.com)
-* 🧠  I'm learning Vue.js, Nuxt.js and Laravel
-* 🤝  I'm open to collaborating on any interesting projects
+* 🧠  I work with Vue.js, Nuxt.js and Laravel
+* 🤝  I am open to collaborate on any interesting projects
 * ⚡  Everybody's so afraid they could die But they never once said "Thank God we're alive"
 
 ### Skills
