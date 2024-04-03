@@ -4,8 +4,6 @@ Hi 👋 My name is Amir
 As a Web developer!
 ----------------------
 
-Here you can see how I spend my days & nights and I hope that it can be useful or at least interesting for you!
-
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [amirhidevs@gmail.com](mailto:amirhidevs@gmail.com)
 * 🧠  I work with Vue.js, Nuxt.js and Laravel
