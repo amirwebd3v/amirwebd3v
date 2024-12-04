@@ -40,7 +40,7 @@ A Frontend Developer...
   <div align="center">     
   <a href="https://github.com/amirwebd3v/github-readme-stats"><img alt="Amir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirwebd3v&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="width: 430px;"/>
     </a>
-  <a href="https://github.com/amirwebd3v/github-readme-stats"><img alt="Amir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirwebd3v&langs_count=6&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=0D1117&hide_progress=true&hide=php,blade" style="width: 385px;" /></a>
+  <a href="https://github.com/amirwebd3v/github-readme-stats"><img alt="Amir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirwebd3v&hide=java&langs_count=6&layout=compact" style="width: 385px;" /></a>
   <br/>
     </div>
  
