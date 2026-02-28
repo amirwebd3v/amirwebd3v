@@ -56,15 +56,21 @@ I'm a passionate Frontend Developer based in **Germany** 🇩🇪, specializing 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://git-hub-streak-stats.vercel.app/?user=amirwebd3v&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak Stats" />
-  
+
+  <img src="https://streak-stats.demolab.com?user=amirwebd3v&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirwebd3v&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirwebd3v&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-phi-azure.vercel.app/api?username=amirwebd3v&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397" height="170" />
+
+
+
+
+
 </div>
+
+
 
 ---
 
