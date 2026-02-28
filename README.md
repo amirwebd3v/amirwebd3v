@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I am Amir,
+# 👋 Hi, I am Amir
 
 ### A Frontend Engineer
 
