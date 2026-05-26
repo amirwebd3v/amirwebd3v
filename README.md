@@ -15,13 +15,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Developer based in **Germany** 🇩🇪, specializing in building modern, scalable web applications with **React**, **Vue.js**, and **Astro**. I believe in the power of clean code, continuous learning, and collaborative development.
+I'm a passionate Frontend Developer based in **Germany** 🇩🇪, specializing in building modern, scalable web applications with **React** and **Vue.js**. I believe in the power of clean code, continuous learning, and collaborative development.
 
-- 🔭 Currently working with **React**, **Astro**, **Vue 3**, **Nuxt 3**, **Tailwind**, **Vuetify**, and **Shadcn/ui**
-- 🌱 Constantly exploring new frontend technologies and best practices
+- 🔭 Currently working with **React**, **Astro**, **Vue**, **Nuxt**, **Tailwind**
 - 💡 Strong advocate for **TypeScript** and type-safe development
 - 🤝 Open to collaborating on innovative and impactful projects
-- ⚡ Philosophy: *"Dedication and consistency are the keys to mastery"*
 
 ---
 
@@ -40,6 +38,7 @@ I'm a passionate Frontend Developer based in **Germany** 🇩🇪, specializing 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%23000000.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-%23FFD859.svg?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%25AAD859.svg?style=for-the-badge&logo=vite&logoColor=purple)
 
 ### UI & Styling
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -81,9 +80,9 @@ const amir = {
   role: "Frontend Developer",
   location: "Germany 🇩🇪",
   expertise: ["React", "Vue.js", "Astro", "Nuxt.js", "TypeScript"],
-  currentStack: ["React", "Astro", "Vue 3", "Nuxt 3", "Tailwind", "Vuetify", "Shadcn/ui"],
-  currentFocus: "Building scalable web applications",
-  interests: ["Modern Web Development", "UI/UX Design", "Performance Optimization"],
+  currentStack: ["React", "Astro", "Vue", "Nuxt",],
+  currentFocus: "Developmemt by AI-Agents",
+  interests: ["Communications", "UI/UX Design", "Performance Optimization", "Vibe Coding", "Challenges"],
   collaboration: "Always open to interesting projects!",
   
   getInTouch: () => {
@@ -98,7 +97,7 @@ const amir = {
 
 I'm always interested in connecting with fellow developers and exploring collaboration opportunities. Feel free to reach out if you want to:
 
-- 💬 Discuss frontend development, React, Vue.js, or Astro
+- 💬 Discuss frontend development and AI
 - 🚀 Collaborate on innovative projects
 - 🎯 Share knowledge and best practices
 - 📧 Just say hi!
