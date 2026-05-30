@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I am Amir;
+# 👋 Hi, It's Amir;
 
 ### A Frontend Engineer
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Developer based in **Germany** 🇩🇪, specializing in building modern, scalable web applications with **React** and **Vue.js**. I believe in the power of clean code, continuous learning, and collaborative development.
+I'm a passionate Frontend Engineer based in **Germany** 🇩🇪, specializing in building modern, scalable web applications with **React** and **Vue.js**. I believe in the power of clean code, continuous learning, and collaborative development.
 
 - 🔭 Currently working with **React**, **Astro**, **Vue**, **Nuxt**, **Tailwind**
 - 💡 Strong advocate for **TypeScript** and type-safe development
