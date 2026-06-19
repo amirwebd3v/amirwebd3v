@@ -2,7 +2,7 @@
   
 # 👋 Hi, It's Amir;
 
-### A Frontend Engineer
+### A Software Frontend Engineer
 
 <p align="center">
   <a href="mailto:amirwebd3v@gmail.com"><img src="https://img.shields.io/badge/Email-amirwebd3v@gmail.com-blue?style=flat-square&logo=gmail"></a>
